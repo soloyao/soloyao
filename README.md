@@ -1,4 +1,4 @@
-<img align="right" width="300" height="300" style="border-radius:50%;" src="https://avatars1.githubusercontent.com/u/49888472?s=460&u=494273b5e4c1c05eed91d90bb40df8a2369f21c0&v=4">
+<img align="right" width="300" height="300" style="border-radius:50% !important;" src="https://avatars1.githubusercontent.com/u/49888472?s=460&u=494273b5e4c1c05eed91d90bb40df8a2369f21c0&v=4">
 
 
 # Hi, I'm [soloyao!]👋.
