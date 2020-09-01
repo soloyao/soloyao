@@ -7,7 +7,7 @@
 
 ## About me 
 
-:heart: 旅游| :black_heart: 极客 | :blue_heart: DIY
+:heart: 阅读| :black_heart: 音乐 | :blue_heart: DIY
 
 - :earth_americas:  广东-深圳
 - :video_game:  like PS4
