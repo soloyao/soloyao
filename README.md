@@ -10,7 +10,7 @@
 :heart: 阅读| :black_heart: 音乐 | :blue_heart: 游戏
 
 - :earth_americas:  广东-深圳
-- :life:  like 沙沙
+- 👩‍👧:  like 沙沙
 - :gem:  like 篮球
 
 
